@@ -20,3 +20,8 @@ Through this task, I not only enhanced my Verilog coding skills but also gained 
 
 Finally, all the design codes, testbench files, and waveform screenshots have been well documented and uploaded to my GitHub repository for reference and evaluation. This task has provided me a solid foundation in memory design, which is essential for any digital system or processor design. It has also improved my debugging and analysis skills, preparing me for more complex VLSI and digital design challenges in the future.
 
+
+
+OUTPUT OF THE TASK 
+<img width="1859" height="779" alt="Image" src="https://github.com/user-attachments/assets/900b28dc-7ef1-490d-a2e9-17bc844105ca" />
+
